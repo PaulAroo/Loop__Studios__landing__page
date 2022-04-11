@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Preview](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/PaulAroo/Loop__Studios__landing__page)
+- Live Site URL: [Preview](https://paularoo.github.io/Loop__Studios__landing__page/)
 
 ## My process
 
